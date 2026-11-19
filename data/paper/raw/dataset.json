@@ -1,0 +1,23 @@
+{
+  "source_sha256": "01b89d1e7310d5fbcb5fb2b3e6072a5d582b7d456e03005ae80b80001f17b94d",
+  "curated": true,
+  "balanced": false,
+  "folds": 10,
+  "seed": 0,
+  "subjects": 1627,
+  "visits": 7565,
+  "stable": 1222,
+  "converters": 405,
+  "classifier_excluded": 17,
+  "classifier_subjects": 1627,
+  "group_counts": {
+    "1": 165,
+    "2": 313,
+    "3": 397,
+    "4": 311,
+    "5": 191,
+    "6": 82,
+    "7": 79,
+    "8": 89
+  }
+}
